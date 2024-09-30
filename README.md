@@ -9,10 +9,6 @@ This project is a **Fingerprint Recognition System** developed using **Python**.
 - [Model Details](#model-details)
 - [Results and Comparison](#results-and-comparison)
 - [Research Paper](#research-paper)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 The **Fingerprint Recognition System** is a biometric identification method that identifies individuals based on unique patterns present in their fingerprints. In this project, we use two approaches:
